@@ -12,7 +12,7 @@ loglevel.set_loglevel('loglevel.yml')
 ```
 
 ### yaml data
-```
+```yaml
 keyring: WARNING
 keyring.backend: WARNING
 websocket: WARNING
