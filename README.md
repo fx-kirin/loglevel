@@ -13,7 +13,14 @@ loglevel.set_loglevel('loglevel.yml')
 
 ### yaml data
 ```
-
+keyring: WARNING
+keyring.backend: WARNING
+websocket: WARNING
+requests: WARNING
+selenium: WARNING
+seleniumrequests: WARNING
+urllib3: WARNING
+nose: WARNING
 ```
 
 Installation
