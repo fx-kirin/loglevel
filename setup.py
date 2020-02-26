@@ -26,7 +26,7 @@ def get_requires():
 
 setup(
     name="loglevel",
-    version="0.1.0",
+    version="0.1.1",
     url="",
     license='MIT',
 
